@@ -5,4 +5,6 @@ All of the assignments and lecture code for Web Programming Fall 2019 at Bethel 
 
 [Web Programming Assignments](https://www.youtube.com/playlist?list=PLar83IIzEy4rg4MQHcKCiRVezWP5DKjKd)
 
+[When Things Go Wrong](https://www.youtube.com/playlist?list=PLar83IIzEy4rno41IQv7HEj6IcEGlw5tM)
+
 [Want to go on a quest?](https://webprogrammingthequest.azurewebsites.net)
