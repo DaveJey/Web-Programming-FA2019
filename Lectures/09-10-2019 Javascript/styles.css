@@ -17,7 +17,8 @@ span { color: green; }
 .absolute { position: absolute; top: 20%; left: 20%; } 
 
 
-.fixed { position: fixed; bottom: 30%; right: 30%; } 
+.fixed { transition: bottom 5s, right 2s; position: fixed; bottom: 30%; right: 30%; } 
+
+.fixedMove { bottom: 60%; right: 60%; }
 
 ul.warning li { background-color: red; color: yellow; }
-
