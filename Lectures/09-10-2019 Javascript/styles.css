@@ -1,0 +1,23 @@
+
+body { background-color: lightblue; font-size: 3em; }
+
+
+span { color: green; }
+
+
+#spanunderline {text-decoration: underline; }
+
+
+.sad { background-color: blue; }
+
+
+.happy { background-color: yellow; }
+
+
+.absolute { position: absolute; top: 20%; left: 20%; } 
+
+
+.fixed { position: fixed; bottom: 30%; right: 30%; } 
+
+ul.warning li { background-color: red; color: yellow; }
+
